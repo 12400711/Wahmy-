@@ -1,0 +1,5 @@
+@import "tailwindcss";
+.nav-bar{
+    z-index: 1000;
+    
+}
