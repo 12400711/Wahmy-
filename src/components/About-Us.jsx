@@ -17,7 +17,7 @@ function AboutUs (){
                 <p className="self-center text-center w-9/10">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla, ut commodo diam libero vitae erat. Aenean faucibus nibh et justo cursus id rutrum.</p>
                 <MainBtn position="/menu" BtnText='Discover The Menu'/>
             </div>
-            <img className="max-h-170 w-9/10 self-center rounded-2xl" src="src\imges\MSG-Smash-Burger.jpg" alt="burger-img" />
+            <img className="max-h-170 w-9/10 self-center rounded-2xl" src="public\imges\MSG-Smash-Burger.jpg" alt="burger-img" />
         </section>
         </>
     )
